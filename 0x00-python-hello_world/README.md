@@ -1,1 +1,3 @@
-The first of many Python projects 
+0. Runs a python script stored as an environment variable within a shell script
+
+1. Runs python code stored in an environment variable, within a shell script
